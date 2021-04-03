@@ -1,0 +1,1 @@
+DELETE http://localhost:4000/todo/delete-todo/6068183b9248695a98f753c5?fields=Message,OperationStatus HTTP/1.1

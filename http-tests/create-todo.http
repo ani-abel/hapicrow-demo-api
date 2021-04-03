@@ -1,0 +1,7 @@
+POST http://localhost:4000/todo/create-todo?fields=Id,Title,DateCreated HTTP/1.1
+content-type: application/json
+
+{
+    "Title": "Start shopping",
+    "StartDate": "2021-04-04T06:54:50.926Z"
+}

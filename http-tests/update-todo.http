@@ -1,0 +1,7 @@
+PATCH http://localhost:4000/todo/update-todo?fields=Message,OperationStatus HTTP/1.1
+content-type: application/json
+
+{
+    "Id": "606819289248695a98f753c9",
+    "Title": "Tell all right now"
+}
